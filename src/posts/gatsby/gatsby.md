@@ -5,6 +5,8 @@ date: "2021-01-10"
 
 I'm making my way through this tutorial!
 
+![Grass](./grass.jpg)
+
 ## Topics Covered
 
 1. Gatsby
