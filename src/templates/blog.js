@@ -31,7 +31,7 @@ const Blog = (props) => {
                 }
             }
     }
-
+    
     return (
         <Layout>
             <h1>{props.data.contentfulBlogPost.title}</h1>
