@@ -10,7 +10,6 @@ const ContactPage = () => {
             <Head title='Contact' />
             <h1>Contact Page</h1>
             <p>Phone: +353-XXX-XXXX</p>
-            <p>Twitter: <a href='https://twitter.com/home'>Me</a></p>
         </Layout>
     )
 }
