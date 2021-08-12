@@ -9,7 +9,8 @@ const ContactPage = () => {
         <Layout>
             <Head title='Contact' />
             <h1>Contact Page</h1>
-            <p>Phone: +353-XXX-XXXX</p>
+            <a href="https://francisfdev.netlify.app/">Visit my Portfolio Site</a>
+            <p>Email: fsfloody@gmail.com</p>
         </Layout>
     )
 }

@@ -8,8 +8,9 @@ const IndexPage = () => {
   return(
     <Layout>
       <Head title='Home' />
-      <h1>Hello,</h1>
-      <h2>I am a second header</h2>
+      <h1>Welcome to the Gatsby Blog</h1>
+      <p>Together with Contentful CMS and Netlify, Gatsby is perfect for building static sites.</p>
+      <p>This blog uses GraphQl to fetch content from Contentful CMS</p>
     </Layout>
   )
 }

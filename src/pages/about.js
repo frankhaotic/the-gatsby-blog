@@ -9,8 +9,8 @@ const AboutPage = () => {
         <Layout>
             <Head title='About' />
             <h1>About Page</h1>
-            <p>This is a GatsbyJS Tutorial Site</p>
-            <p><Link to='/contact'>Contact me.</Link></p>
+            <p>Thank you for visiting this blog!</p>
+            <p>Feel free to <Link to='/contact'>get in touch!</Link></p>
         </Layout>
     )
 }
