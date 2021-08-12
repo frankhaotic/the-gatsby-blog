@@ -10,7 +10,7 @@ const IndexPage = () => {
       <Head title='Home' />
       <h1>Welcome to the Gatsby Blog</h1>
       <p>Together with Contentful CMS and Netlify, Gatsby is perfect for building static sites.</p>
-      <p>This blog uses GraphQl to fetch content from Contentful CMS</p>
+      <p>This blog uses GraphQl to fetch content from Contentful CMS.</p>
     </Layout>
   )
 }
