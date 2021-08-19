@@ -1,10 +1,9 @@
 # The Gatsby Blog
-
-<div style="display: flex; align-items: center; justify-content: space-between;">
+<div>
   <p>
     The Gatsby Blog is a statically-generated site built with GatsbyJS.
   </p>
-  <img  alt="Gatsby" src="https://www.gatsbyjs.com/Gatsby-Monogram.svg" width="40" />
+  <img  align="right" alt="Gatsby" src="https://www.gatsbyjs.com/Gatsby-Monogram.svg" width="40" />
 </div>
 
 Resources served on the blog are fetched from [Contentful CMS](https://www.contentful.com/) using GraphQL. 
